@@ -1,0 +1,10 @@
+{
+"extends": "@tsconfig/react-native/tsconfig.json", 
+"pretty": true,
+
+"compilerOptions": {
+      "strict": true,
+      "noUncheckedIndexedAccess": true,
+      "noImplicitAny": true,
+    }
+}
