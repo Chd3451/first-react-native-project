@@ -6,5 +6,6 @@
       "strict": true,
       "noUncheckedIndexedAccess": true,
       "noImplicitAny": true,
+      "allowImportingTsExtensions": true
     }
 }
